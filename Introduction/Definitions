@@ -1,0 +1,22 @@
+OBJECT: 
+  > Physical entity
+  > Common and uniqueness
+
+CLASS:
+  > Logic entity
+  > Consist many objects
+
+ENCAPSULATION:
+  > Variables + Methods
+
+INHERITANCE:
+  > Process by wich object of one class acquires the properties of objects another class.
+
+POLYMORPHISM:
+  > Many forms
+
+ABSTRACTION:
+  > Hiding lower level details and exposing essential details.
+
+MESSAGE PASSING:
+  > Objects that communicate with each other.
