@@ -28,9 +28,9 @@ How to get Dynamic imput form the user ?
                * BufferedReader
                * Scanner
                
-> Code using BufferedReader:
+Code using BufferedReader:
 
-BUFFEREDREADER code:
+.java BUFFEREDREADER code:
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.IOException;
