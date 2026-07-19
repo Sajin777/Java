@@ -43,6 +43,7 @@ class add
 }
 
 Datatypes
+
     # Primitive
         > boolean
         > char
