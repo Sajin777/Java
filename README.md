@@ -30,7 +30,8 @@ How to get Dynamic imput form the user ?
                
 Code using BufferedReader:
 
-.java BUFFEREDREADER code:
+'''java
+BUFFEREDREADER code:
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.IOException;
@@ -49,6 +50,7 @@ class add
     br.close();
   }
 }
+'''
 
 Datatypes
 
