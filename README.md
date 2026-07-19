@@ -30,8 +30,6 @@ How to get Dynamic imput form the user ?
                
 Code using BufferedReader:
 
-<details>
-<summary>Click to view Java Code</summary>
 
 ```java
 BUFFEREDREADER code:
@@ -54,7 +52,6 @@ class add
   }
 }
 ```
-<details/>
 
 Datatypes
 
