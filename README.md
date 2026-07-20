@@ -1,4 +1,4 @@
-Class:
+<h2>Class:
 
     # Blueprint, framework
     # LogicL entity
